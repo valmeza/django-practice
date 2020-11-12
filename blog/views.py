@@ -14,6 +14,20 @@ posts = [
         'content': 'This post',
         'date_posted': 'November 1, 2019'
     }
+    ,
+    {
+        'author': 'Valeria Something',
+        'title': 'Some Other Blog',
+        'content': 'This post',
+        'date_posted': 'November 1, 2019'
+    }
+    ,
+    {
+        'author': 'Valeria Something',
+        'title': 'Some Other Blog',
+        'content': 'This post',
+        'date_posted': 'November 1, 2019'
+    }
 ]
 
 def home(request):
